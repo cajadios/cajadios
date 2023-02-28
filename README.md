@@ -24,7 +24,7 @@ esta lista se ira ampliando con el tiempo!!!
 <hr>
 contacto💬:
 
-email: arrobatorque@gmail.com 
+email: santiago.e.venturini@gmail.com 
 
 Linkedin: <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-venturini-215a99255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-venturini-215a99255/" height="30" width="40" /></a>
 
