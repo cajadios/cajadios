@@ -4,9 +4,6 @@ Desarrollador Full Stack.
 
 Graduado de Henry, cada dia aprendiendo un poco mas sobre este mundo del desarrollo web,tratando de en posible aplicar lo aprendido en mini proyectos personales 📫.
 
-Si les interesa mi avance como desarrolador les facilito mi linkedin,donde subo mi progreso <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-venturini-215a99255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-venturini-215a99255/" height="30" width="40" /></a>
-</p>
 <br>
 algunos proyectos:
 <br><br>
@@ -26,7 +23,7 @@ contacto💬:
 
 email: santiago.e.venturini@gmail.com 
 
-Linkedin: <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-venturini-215a99255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-venturini-215a99255/" height="30" width="40" /></a>
+Linkedin: <a href="https://www.linkedin.com/in/santiago-venturini-215a99255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-venturini-215a99255/" height="30" width="40" /></a>
 
 <!--
 **cajadios/cajadios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
